@@ -1,5 +1,36 @@
-- 👋 Hey There, This is @yashwal
-- 📫 You can reach me @kanchanyashwal@gmail.com
-  
+# Hi, I'm Yashwal! 👋
+
+I'm a passionate software engineer with a focus on full-stack development. I enjoy working with a variety of technologies to build innovative and efficient solutions. Here's a bit more about me:
+
+- 🔭 I'm currently working at UNBXD, where I contribute to the development of cutting-edge products.
+- 🎓 I hold a B.Tech degree in Computer Science from PES University.
+- 💼 My work involves both frontend and backend development, and I love exploring new technologies in both areas.
+- 🌐 I have experience in multiple programming languages, including Python, Java, C, C++, as well as web technologies like HTML, JavaScript, ReactJS, and CSS.
+
+## Technologies I Work With
+
+- **Frontend:** HTML, JavaScript, ReactJS, CSS
+- **Backend:** Python, Java
+- **Other Languages:** C, C++
+- **Version Control:** Git
+
+## What I'm Currently Learning
+
+I believe in lifelong learning, and I'm always eager to expand my skill set. Currently, I'm focusing on:
+
+- [ ] Deepening my knowledge of ReactJS and modern JavaScript.
+- [ ] Exploring cloud computing and serverless technologies.
+- [ ] Enhancing my problem-solving skills through competitive programming.
+
+## Contact Me
+
+You can connect with me on LinkedIn or reach out via email at [your.email@example.com](mailto:your.email@example.com). I'm open to collaboration, tech discussions, and sharing knowledge.
+
+## My GitHub Stats
+
+![Yashwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and contributions. Don't hesitate to get in touch if you have any questions or would like to work together on an exciting project.
+
 
 
