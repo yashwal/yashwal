@@ -24,11 +24,11 @@ I believe in lifelong learning, and I'm always eager to expand my skill set. Cur
 
 ## Contact Me
 
-You can connect with me on LinkedIn or reach out via email at [your.email@example.com](mailto:your.email@example.com). I'm open to collaboration, tech discussions, and sharing knowledge.
+You can connect with me on LinkedIn or reach out via email at [kanchanyashwal@gmail.com](mailto:your.email@example.com). I'm open to collaboration, tech discussions, and sharing knowledge.
 
 ## My GitHub Stats
 
-![Yashwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Yashwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwal&show_icons=true&theme=dark)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and contributions. Don't hesitate to get in touch if you have any questions or would like to work together on an exciting project.
 
