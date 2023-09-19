@@ -24,7 +24,7 @@ I believe in lifelong learning, and I'm always eager to expand my skill set. Cur
 
 ## Contact Me
 
-You can connect with me on LinkedIn or reach out via email at [kanchanyashwal@gmail.com](mailto:your.email@example.com). I'm open to collaboration, tech discussions, and sharing knowledge.
+You can connect with me on LinkedIn or reach out via email at [kanchanyashwal@gmail.com](mailto:kanchanyashwal@gmail.com). I'm open to collaboration, tech discussions, and sharing knowledge.
 
 ## My GitHub Stats
 
