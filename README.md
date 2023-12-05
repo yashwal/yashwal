@@ -10,7 +10,7 @@ I'm a passionate software engineer with a focus on full-stack development. I enj
 ## Technologies I Work With
 
 - **Frontend:** HTML, JavaScript, ReactJS, CSS
-- **Backend:** Python, Java
+- **Backend:** Python
 - **Other Languages:** C, C++
 - **Version Control:** Git
 
