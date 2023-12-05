@@ -33,7 +33,7 @@ I believe in lifelong learning, and I'm always eager to expand my skill set. Cur
 <p align="center" ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwal&theme=2077"/></p>
 <br>
 <br>
-<p align="center" ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashwal"/></p>
+<p align="center" ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashwal&theme=2077&utcOffset=5.30"/></p>
 
 
 
