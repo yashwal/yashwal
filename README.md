@@ -25,6 +25,10 @@ I believe in lifelong learning, and I'm always eager to expand my skill set. Cur
 <h3 align="center">Github Stats</h3>
 <br>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwal" alt="yashwal" /></p>
+<br>
+<br>
+<p align="center" ><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwal&theme=2077"/></p>
+
 
 ## Contact Me
 
