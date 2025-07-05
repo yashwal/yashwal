@@ -8,8 +8,6 @@ I'm a passionate software engineer with a focus on full-stack development. I enj
 - 🌐 I have experience in multiple programming languages, including Python, Java, C, C++, as well as web technologies like HTML, JavaScript, ReactJS, and CSS.
 
 ## Technologies I Work With
-
-- **Frontend:** HTML, JavaScript, ReactJS, CSS
 - **Backend:** Python
 - **Other Languages:** C, C++
 - **Version Control:** Git
