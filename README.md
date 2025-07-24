@@ -15,9 +15,12 @@ currently working on large-scale search & discovery systems at **UNBXD**.
 ## now  
 🧪 exploring AI infra, agent workflows, and efficient cloud-native pipelines  
 🎯 looking to grow as a Python/AI engineer and work on meaningful products
+🛠 wiring up multi-agent systems  
+🧪 experimenting with RAG pipelines + local LLMs  
+📈 slowly eating tasks that used to need humans
 
 ---
 
 📂 [Portfolio](https://v0-creative-portfolio-rust-three.vercel.app/)  
 📫 [kanchanyashwal@gmail.com](mailto:kanchanyashwal@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK_HERE)
+🔗 [LinkedIn](https://www.linkedin.com/in/yashwal-kanchan-49ab19236/)
