@@ -1,4 +1,4 @@
-# hey, i’m yashwal 🧠💻
+# hey, i’m yashwal ❗️
 
 AI-focused backend engineer who also builds full-stack when needed.  
 currently working on large-scale search & discovery systems at **UNBXD**.
